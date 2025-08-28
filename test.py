@@ -1,1 +1,2 @@
-print("Hello, World inside the new branch! + commit 3")
+print("Hello, World!")
+print("This is the main branch.")
